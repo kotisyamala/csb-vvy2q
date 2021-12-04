@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://kotisyamala.github.io/csb-vvy2q/static/css/main.1d57fb8d.chunk.css",
+    "main.js": "https://kotisyamala.github.io/csb-vvy2q/static/js/main.702a7b55.chunk.js",
+    "main.js.map": "https://kotisyamala.github.io/csb-vvy2q/static/js/main.702a7b55.chunk.js.map",
+    "runtime-main.js": "https://kotisyamala.github.io/csb-vvy2q/static/js/runtime-main.648a83d4.js",
+    "runtime-main.js.map": "https://kotisyamala.github.io/csb-vvy2q/static/js/runtime-main.648a83d4.js.map",
+    "static/js/2.281c8f62.chunk.js": "https://kotisyamala.github.io/csb-vvy2q/static/js/2.281c8f62.chunk.js",
+    "static/js/2.281c8f62.chunk.js.map": "https://kotisyamala.github.io/csb-vvy2q/static/js/2.281c8f62.chunk.js.map",
+    "index.html": "https://kotisyamala.github.io/csb-vvy2q/index.html",
+    "precache-manifest.bdd4259f0b7d0ab8ebbeacf81f6b92aa.js": "https://kotisyamala.github.io/csb-vvy2q/precache-manifest.bdd4259f0b7d0ab8ebbeacf81f6b92aa.js",
+    "service-worker.js": "https://kotisyamala.github.io/csb-vvy2q/service-worker.js",
+    "static/css/main.1d57fb8d.chunk.css.map": "https://kotisyamala.github.io/csb-vvy2q/static/css/main.1d57fb8d.chunk.css.map",
+    "static/js/2.281c8f62.chunk.js.LICENSE.txt": "https://kotisyamala.github.io/csb-vvy2q/static/js/2.281c8f62.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.png": "https://kotisyamala.github.io/csb-vvy2q/static/media/bitcoin.e798b08f.png",
+    "static/media/summary.png": "https://kotisyamala.github.io/csb-vvy2q/static/media/summary.d38c6082.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648a83d4.js",
+    "static/js/2.281c8f62.chunk.js",
+    "static/css/main.1d57fb8d.chunk.css",
+    "static/js/main.702a7b55.chunk.js"
+  ]
+}
